@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 @font-face {
     font-family: "IRANSansWeb";
     src: url("../webfonts/IRANSansWeb_Medium.eot"); /* IE */
@@ -415,12 +415,6 @@ header .navbar a:hover{
 
 
 
-
-
-
-
-
-/* media queries  */
 @media (max-width:991px){
 
     html{
@@ -510,12 +504,12 @@ header .navbar a:hover{
     font-size: 40px;
 }
 
- */
 
 
 
 
-@font-face {
+
+/* @font-face {
     font-family: "Vazir";
     src: url(Vazir-Regular.ttf);
 }
@@ -547,3 +541,4 @@ header .navbar a:hover{
     margin: 20px 0;
     display: inline-block;}
 	.contant_box_404{ margin-top:-50px;}
+ */
